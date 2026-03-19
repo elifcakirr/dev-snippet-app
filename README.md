@@ -54,9 +54,3 @@ npm start
 <img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/1e9ef0a2-f41f-4136-b908-e498185a3185" />
 
 
-
-## 📝 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
-
-
